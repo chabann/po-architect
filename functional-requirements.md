@@ -1,22 +1,4 @@
 ## Функциональные требования
-<style>
-table, th, td {
-  border: 2px solid black;
-  text-align: center;
-}
-table {
-    min-width: 900px;
-}
-
-
-.even {
-    background-color: #F9F9FF;
-}
-
-.odd {
-    background-color: #FFFFE0;
-}
-</style>
 
 <table>
     <tr>
@@ -176,7 +158,7 @@ table {
         <td>Разработка алгоритмов рекомендаций, требующих машинного обучения</td>
     </tr>
     <tr class="even">
-        <td>необходима система сбора и анализа данных о пользователях</td>
+        <td>Необходима система сбора и анализа данных о пользователях</td>
     </tr>
     <tr class="even">
         <td rowspan="2">Программа лояльности</td>
